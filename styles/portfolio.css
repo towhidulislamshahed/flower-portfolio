@@ -248,11 +248,10 @@ flex-shrink: 0;
  .section-part-6{
     max-width: 1081px;
     min-height: 450px;
+    background-image: url('../images/Rectangle\ 9.png');
     padding: 110px;
     margin: 0 auto;
     border-radius: 8px;
-    background: url('Rectangle_9.png'), lightgray 0px -203.444px / 100% 213% no-repeat;*/
-
 }
 .section-part-6-1-heading{
     margin-top: 30px;
