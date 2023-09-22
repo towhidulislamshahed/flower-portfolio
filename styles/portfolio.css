@@ -169,11 +169,11 @@ flex-shrink: 0;
     
 }
 .section-part-3 img{
-   display: inline-block;
+    display: inline-block;
     padding-left:  80px ;
 }
 
-section-part-4{
+.section-part-4{
     display: flex;
     margin-top: 100px;
     padding: 40px;
@@ -193,21 +193,23 @@ section-part-4{
 }
 .section-part-4-1-heading-span{
    color: #E55473;
-font-size: 40px;
-font-weight: 800;
+   font-size: 40px;
+   font-weight: 800;
 }
 .section-part-4-1-para{
    margin-bottom: 20px;
 }
 .section-part-4-1-button{
-padding: 20px 43px;
-margin-left: 150px;
-border: none;
-   color: #FFF;
-font-size: 20px;
-font-weight: 700;
-   border-radius: 8px;
-  background: #E55473;
+
+    padding: 20px 43px;
+    margin-left: 150px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+   
 }
 .section-part-4-2{
    
